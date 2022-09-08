@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+}
+#otsikko2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+    padding: 5px;
+}
+img {
+    outline: 5px;
+    width: 500px;
+    height: 500px;
+}
